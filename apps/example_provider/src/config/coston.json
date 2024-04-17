@@ -38,6 +38,24 @@
     ]
   },
   {
+    "feed": { "category": 1, "name": "AAVE/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "AAVE/USDT"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "APT/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "APT/USDT"
+      }
+    ]
+  },
+  {
     "feed": { "category": 1, "name": "XRP/USD" },
     "sources": [
       {
@@ -601,6 +619,22 @@
       {
         "exchange": "coinbasepro",
         "symbol": "USDT/USD"
+      },
+      {
+        "exchange": "kraken",
+        "symbol": "USDT/USD"
+      },
+      {
+        "exchange": "bitfinex",
+        "symbol": "USDT/USD"
+      },
+      {
+        "exchange": "bitstamp",
+        "symbol": "USDT/USD"
+      },
+      {
+        "exchange": "gemini",
+        "symbol": "USDT/USD"
       }
     ]
   },
@@ -1069,6 +1103,513 @@
       {
         "exchange": "cryptocom",
         "symbol": "EUR/USDT"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "BEAM/USD" },
+    "sources": [
+      {
+        "exchange": "bitrue",
+        "symbol": "BEAM/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "BEAM/USDT"
+      },
+      {
+        "exchange": "binance",
+        "symbol": "BEAMX/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "BEAMX/USDT"
+      },
+      {
+        "exchange": "htx",
+        "symbol": "BEAMX/USDT"
+      },
+
+      {
+        "exchange": "bitmart",
+        "symbol": "BEAM/USDT"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "GALA/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "GALA/USDT"
+      },
+
+      {
+        "exchange": "whitebit",
+        "symbol": "GALA/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "GALA/USDT"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "GRT/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "GRT/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "GRT/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "GRT/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "GRT/USD"
+      },
+
+      {
+        "exchange": "kraken",
+        "symbol": "GRT/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "HBAR/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "HBAR/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "HBAR/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "HBAR/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "IMX/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "IMX/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "IMX/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "IMX/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "IMX/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "IMX/USD"
+      },
+
+      {
+        "exchange": "kraken",
+        "symbol": "IMX/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "LDO/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "LDO/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "LDO/USDT"
+      },
+
+      {
+        "exchange": "whitebit",
+        "symbol": "LDO/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "LDO/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "LDO/USD"
+      },
+
+      {
+        "exchange": "kraken",
+        "symbol": "LDO/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "NEAR/USD" },
+    "sources": [
+      {
+        "exchange": "whitebit",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "binance",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "bitget",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "kucoin",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "bitrue",
+        "symbol": "NEAR/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "NEAR/USD"
+      },
+
+      {
+        "exchange": "kraken",
+        "symbol": "NEAR/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "OP/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "OP/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "OP/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "OP/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "OP/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "OP/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "OP/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "QNT/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "QNT/USDT"
+      },
+
+      {
+        "exchange": "bitrue",
+        "symbol": "QNT/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "QNT/USDT"
+      },
+
+      {
+        "exchange": "lbank",
+        "symbol": "QNT/USDT"
+      },
+
+      {
+        "exchange": "kucoin",
+        "symbol": "QNT/USDT"
+      },
+
+      {
+        "exchange": "phemex",
+        "symbol": "QNT/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "QNT/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "RNDR/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "RNDR/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "RNDR/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "RNDR/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "RNDR/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "RNDR/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "RNDR/USD"
+      },
+
+      {
+        "exchange": "kraken",
+        "symbol": "RNDR/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "STRK/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "STRK/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "STRK/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "STRK/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "STRK/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "STRK/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "STX/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "STX/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "STX/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "STX/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "STX/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "STX/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "SUI/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "SUI/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "SUI/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "SUI/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "SUI/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "SUI/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "SUI/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "TIA/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "TIA/USDT"
+      },
+
+      {
+        "exchange": "bybit",
+        "symbol": "TIA/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "TIA/USDT"
+      },
+
+      {
+        "exchange": "gateio",
+        "symbol": "TIA/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "TIA/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "TIA/USD"
+      },
+
+      {
+        "exchange": "kraken",
+        "symbol": "TIA/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "VET/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "VET/USDT"
+      },
+
+      {
+        "exchange": "kucoin",
+        "symbol": "VET/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "VET/USD"
+      }
+    ]
+  },
+  {
+    "feed": { "category": 1, "name": "XTZ/USD" },
+    "sources": [
+      {
+        "exchange": "binance",
+        "symbol": "XTZ/USDT"
+      },
+
+      {
+        "exchange": "okx",
+        "symbol": "XTZ/USDT"
+      },
+
+      {
+        "exchange": "htx",
+        "symbol": "XTZ/USDT"
+      },
+
+      {
+        "exchange": "coinbasepro",
+        "symbol": "XTZ/USD"
       }
     ]
   }
